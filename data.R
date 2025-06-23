@@ -21,7 +21,7 @@ mimic_iii <- read.csv("mimic_iii.csv")
 eicu      <- read.csv("eicu.csv")
 
 
-
+mimic_iv$intime
 
 
 

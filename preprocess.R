@@ -136,9 +136,9 @@ explicit_drops <- intersect(c(
   "dvt", "endocarditis", "suppoxygen",
   
   # AKI timing and staging
-  "early_aki_exclude1",  "akd_aki",
-   "aki_48h_to_7d",
-  "first_aki_time_48h_to_7d", "late_aki_after_week1", "days_to_first_aki",
+  "early_aki_exclude1",  "akd_aki", "first_aki_time_24h_to_7d",
+   "aki_48h_to_7d", "first_aki_3_time_24h_to_7d",
+  "first_aki_time_48h_to_7d", "late_aki_after_week1",
   
   # Fluid balance variables
   "intaketotal_sum_24h", "outputtotal_sum_24h",
