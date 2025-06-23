@@ -119,7 +119,7 @@ explicit_drops <- intersect(c(
   "chloride_max_minus_avg", "aniongap_last_minus_first", "aniongap_max_minus_avg",
   "aniongap_min_minus_avg", "bicarbonate_last_minus_first", "bicarbonate_max_minus_avg",
   "bicarbonate_min_minus_avg", "wbc_last_minus_first", "magnesium_last_minus_first",
-  "magnesium_min_minus_avg", "magnesium_max_minus_avg", "worst_creatinine", "region",
+  "magnesium_min_minus_avg", "magnesium_max_minus_avg", "worst_creatinine", 
   "mcv_min" ,"mcv_max",  "mch_min", "mch_max", "hematocrit_max" , "hemoglobin_max",
   "platelet_max", "rbc_max", "rdw_min", "wbc_min", "angiongap_min", "bicarbonate_max",
   "calcium_max", "chloride_min", "magnesium_min", "phosphate_min", "ph_max", "pulmonary_htn",

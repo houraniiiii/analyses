@@ -137,3 +137,5 @@ na_summary <- tibble(
 ## ---------------------------------------------------------------------------
 continuous_vars   # character vector of continuous variables
 na_summary        # var_name | n_NA | perc_NA
+
+colnames(aki_df)

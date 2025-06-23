@@ -136,7 +136,7 @@ extra_cols <- c(
   "procainamide_any","urate_phosphate_sys",
   # --- Neurologic / GCS -------------------------------------------
   "gcs_min_first_day","gcs_motor_avg","gcs_verbal_avg","gcs_eyes_avg",
-  "gcs_unable","gcs_total_min",
+  "gcs_unable","gcs_total_min", "intime", "region",
   # --- Respiratory support ----------------------------------------
   "ventilated","invasive_vent","hfnc","noninv_vent","suppoxygen","tracheostomy",
   # --- Fluid balance ----------------------------------------------
